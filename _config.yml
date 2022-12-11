@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
 title: Chris's blog space
 description: Mind flush
+
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+- jekyll-remote-theme
