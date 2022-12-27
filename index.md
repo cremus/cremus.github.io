@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome
 
-Lorem ipsum
+Lorem ipsum lolz
