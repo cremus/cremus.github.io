@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: "cremus.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cremus.github.io" 
+markdown: kramdown 
 twitter_username: Who uses twitter anymore?
 github_username:  cremus
 
